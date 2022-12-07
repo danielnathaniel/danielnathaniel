@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @danielnathaniel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <div align="center">
    <h1>Hi there, I'm Daniel<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
@@ -23,16 +18,18 @@
 <br />
 <img align="right" height="200px" width="350px" alt="GIF" src="https://media2.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif?cid=ecf05e479mcu2c7w9qunzgism4nate4ps8j1m2xc0vvk4w45&rid=giphy.gif&ct=g" />
 <p align="center">
-  <h3> I have been into technology since the age of 12. General Assembly graduate and self-taught Full-Stack developer from California.</h3>
+  <h3> I have been interested in technology since the age of 12.</h3>
 </p>
+
+ - 👨🏽‍🏫 General Assembly Full-Stack graduate
 
  - 💻 Learning React Redux, React Native & Angular
     
- - 🏦 Into Finance & Business, I am always up to date on Bloomberg, WSJ...
+ - 🏦 Into Finance & Business, always up to date on Bloomberg, WSJ...
  
- - I do fullstack and am falling in love with the frontend :heart:
+ - 🖼️ Falling in love with the frontend :heart:
  
- - All About living life at its best by improving daily.
+ - 📚 All about living life at its best by improving daily
  
  - 💬 Connect? lets chat 👉🏼 DanielDoesDev@gmail.com
  

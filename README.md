@@ -16,7 +16,7 @@
 
 
 <br />
-<img align="right" height="200px" width="350px" alt="GIF" src="https://media2.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif?cid=ecf05e479mcu2c7w9qunzgism4nate4ps8j1m2xc0vvk4w45&rid=giphy.gif&ct=g" />
+<img align="right" height="320px" width="450px" alt="GIF" src="https://media2.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif?cid=ecf05e479mcu2c7w9qunzgism4nate4ps8j1m2xc0vvk4w45&rid=giphy.gif&ct=g" />
 <p align="center">
   <h3> I have been interested in technology since the age of 12.</h3>
 </p>
